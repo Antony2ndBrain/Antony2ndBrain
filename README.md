@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-New Branch Achievement
-
 <!--
 **Antony2ndBrain/Antony2ndBrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
