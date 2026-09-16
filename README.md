@@ -29,12 +29,6 @@ The work is at an early stage. I am currently focusing on dataset understanding,
 - classical machine-learning and transformer methodology;
 - clear technical documentation for research decisions.
 
-## Featured project
-
-### [2802067775_ALC_Dissertation](https://github.com/Antony2ndBrain/2802067775_ALC_Dissertation)
-
-The public home for my dissertation planning and research documentation. The repository will develop gradually as methods and findings are validated.
-
 ## Let us communicate
 
 Questions, constructive feedback, and research conversations are welcome.
