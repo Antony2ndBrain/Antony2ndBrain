@@ -39,9 +39,9 @@
 
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="17" font-weight="600">
     <rect x="80" y="211" width="173" height="40" rx="20" fill="#63E6FF" fill-opacity="0.15" stroke="#63E6FF" stroke-opacity="0.5"/>
-    <text x="107" y="237" fill="#DDF8FF">Learning in public</text>
+    <text x="107" y="237" fill="#DDF8FF">Learning</text>
     <rect x="270" y="211" width="143" height="40" rx="20" fill="#B28DFF" fill-opacity="0.15" stroke="#B28DFF" stroke-opacity="0.5"/>
-    <text x="300" y="237" fill="#F0E8FF">Applied NLP</text>
+    <text x="300" y="237" fill="#F0E8FF">NLP</text>
     <rect x="430" y="211" width="191" height="40" rx="20" fill="#63E6FF" fill-opacity="0.12" stroke="#63E6FF" stroke-opacity="0.45"/>
     <text x="456" y="237" fill="#DDF8FF">Research in progress</text>
   </g>
