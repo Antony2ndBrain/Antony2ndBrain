@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Antony2ndBrain — learning in public, applied NLP, and research in progress" width="100%">
+  <img src="./assets/profile-banner.svg" alt="Antony2ndBrain — learning, NLP, and research in progress" width="100%">
 </p>
 
 <p align="center">
