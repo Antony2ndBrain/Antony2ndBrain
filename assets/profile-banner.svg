@@ -1,6 +1,6 @@
 <svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
   <title id="title">Antony2ndBrain profile banner</title>
-  <desc id="description">A blue and violet research-themed banner for Antony2ndBrain, featuring text about learning, NLP, and research in progress.</desc>
+  <desc id="description">A blue and violet research-themed banner for Antony2ndBrain, featuring text about learning, NLP, and research</desc>
   <defs>
     <linearGradient id="background" x1="40" y1="20" x2="1160" y2="300" gradientUnits="userSpaceOnUse">
       <stop stop-color="#081A33"/>
@@ -43,6 +43,6 @@
     <rect x="270" y="211" width="143" height="40" rx="20" fill="#B28DFF" fill-opacity="0.15" stroke="#B28DFF" stroke-opacity="0.5"/>
     <text x="300" y="237" fill="#F0E8FF">NLP</text>
     <rect x="430" y="211" width="191" height="40" rx="20" fill="#63E6FF" fill-opacity="0.12" stroke="#63E6FF" stroke-opacity="0.45"/>
-    <text x="456" y="237" fill="#DDF8FF">Research in progress</text>
+    <text x="456" y="237" fill="#DDF8FF">Research</text>
   </g>
 </svg>
